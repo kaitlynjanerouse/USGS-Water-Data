@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/USGS-Water-Data/static/css/main.e6c13ad2.css",
+    "main.js": "/USGS-Water-Data/static/js/main.ae0ddc85.js",
+    "static/js/453.9d5b9d5e.chunk.js": "/USGS-Water-Data/static/js/453.9d5b9d5e.chunk.js",
+    "index.html": "/USGS-Water-Data/index.html",
+    "main.e6c13ad2.css.map": "/USGS-Water-Data/static/css/main.e6c13ad2.css.map",
+    "main.ae0ddc85.js.map": "/USGS-Water-Data/static/js/main.ae0ddc85.js.map",
+    "453.9d5b9d5e.chunk.js.map": "/USGS-Water-Data/static/js/453.9d5b9d5e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ae0ddc85.js"
+  ]
+}
