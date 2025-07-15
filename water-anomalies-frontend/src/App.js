@@ -32,7 +32,7 @@ function App() {
       <ul>
         {anomalies.map((a) => (
           <li key={a.site_id + a.timestamp}>
-            <strong>{a.direction}</strong> at site <em>{a.site_name}</em> on {a.timestamp}: {a.prev_value} → {a.curr_value}
+            <strong>{a.direction}</strong> at site <em>{a.site_name}</em> ({a.site_id}) on {a.timestamp}: {a.prev_value} → {a.curr_value}
           </li>
         ))}
       </ul>
